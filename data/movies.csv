@@ -1,0 +1,11 @@
+movie_id,title,primary_genre,secondary_genre,release_year,runtime_min,maturity_rating,imdb_rating,language,country_of_origin,director,lead_actor,netflix_original,tags
+M01,Bird Box,Thriller,Horror,2018,124,R,6.6,English,United States,Susanne Bier,Sandra Bullock,Yes,post-apocalyptic|survival|suspense|family
+M02,The Irishman,Crime,Drama,2019,209,R,7.8,English,United States,Martin Scorsese,Robert De Niro,Yes,mafia|biography|loyalty|period-piece
+M03,Extraction,Action,Thriller,2020,116,R,6.7,English,United States,Sam Hargrave,Chris Hemsworth,Yes,mercenary|rescue|survival|fast-paced
+M04,Roma,Drama,Historical,2018,135,R,7.7,Spanish,Mexico,Alfonso Cuaron,Yalitza Aparicio,Yes,family|period-piece|social-class|art-house
+M05,Glass Onion: A Knives Out Mystery,Mystery,Comedy,2022,139,PG-13,7.1,English,United States,Rian Johnson,Daniel Craig,Yes,whodunit|ensemble-cast|satire|detective
+M06,Red Notice,Action,Comedy,2021,118,PG-13,6.3,English,United States,Rawson Marshall Thurber,Dwayne Johnson,Yes,heist|fast-paced|buddy-comedy|ensemble-cast
+M07,Don't Look Up,Comedy,Sci-Fi,2021,138,R,7.2,English,United States,Adam McKay,Leonardo DiCaprio,Yes,satire|apocalypse|ensemble-cast|social-commentary
+M08,Enola Holmes,Mystery,Adventure,2020,123,PG-13,6.6,English,United Kingdom,Harry Bradbeer,Millie Bobby Brown,Yes,detective|period-piece|family|coming-of-age
+M09,Marriage Story,Drama,Romance,2019,137,R,7.9,English,United States,Noah Baumbach,Adam Driver,Yes,family|relationships|character-study|social-commentary
+M10,The Gray Man,Action,Thriller,2022,122,PG-13,6.5,English,United States,Anthony and Joe Russo,Ryan Gosling,Yes,spy|fast-paced|ensemble-cast|chase

@@ -1,0 +1,11 @@
+user_id,name,age,gender,country,subscription_plan,signup_date,primary_device,favorite_genre,preferred_language,avg_weekly_hours
+U001,Priya Nair,28,Female,India,Premium,2021-03-14,Smart TV,Drama,English,11.5
+U002,Lukas Meier,34,Male,Germany,Standard,2020-08-02,Laptop,Action,English,8.0
+U003,Emily Carter,41,Female,United States,Premium,2019-11-21,Smart TV,Mystery,English,14.0
+U004,Rohan Verma,16,Male,India,Basic,2024-01-09,Mobile,Action,English,6.5
+U005,Sofia Almeida,23,Female,Brazil,Standard with Ads,2023-05-30,Mobile,Comedy,Portuguese,9.0
+U006,James Oliver,52,Male,United Kingdom,Premium,2018-02-17,Smart TV,Crime,English,12.0
+U007,Hana Sato,31,Female,Japan,Standard,2022-09-05,Tablet,Romance,Japanese,7.5
+U008,Mateo Hernandez,26,Male,Mexico,Basic,2023-12-12,Mobile,Thriller,Spanish,10.0
+U009,Chloe Tremblay,37,Female,Canada,Standard with Ads,2021-07-23,Laptop,Comedy,English,5.5
+U010,Omar Al-Farsi,45,Male,United Arab Emirates,Premium,2020-01-28,Smart TV,Sci-Fi,English,13.0

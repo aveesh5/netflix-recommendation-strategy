@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../netflix-recommendation-strategy"
+		},
+		{
+			"path": "../data"
+		},
+		{
+			"path": "../docs"
+		},
+		{
+			"path": "../images"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
